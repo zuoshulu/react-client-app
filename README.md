@@ -3,8 +3,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+Before running this Message Board app, its Nodejs express rest API server must be running
 
 In the project directory, you can run:
+
+### TypeScript has been enabled in the project
+
+### Material-ui library has been used to provide better GUI controls
 
 ### `npm start`
 
